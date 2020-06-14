@@ -5,12 +5,51 @@
     <link>https://yohhaan.github.io/post/</link>
       <atom:link href="https://yohhaan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2020 18:17:35 -0400</lastBuildDate>
     <image>
       <url>https://yohhaan.github.io/images/icon_hu72d8aa925451deff492658097196e0f0_214692_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://yohhaan.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>You Shall Not Pass! (Password Management)</title>
+      <link>https://yohhaan.github.io/post/you-shall-not-pass/</link>
+      <pubDate>Fri, 12 Jun 2020 18:17:35 -0400</pubDate>
+      <guid>https://yohhaan.github.io/post/you-shall-not-pass/</guid>
+      <description>&lt;h2 id=&#34;password-security&#34;&gt;Password security&lt;/h2&gt;
+&lt;p&gt;With this post, I hope to convince you once for all to stop reusing this &lt;strong&gt;same exact&lt;/strong&gt; password you use for all your accounts and start using a password manager.&lt;/p&gt;
+&lt;h2 id=&#34;have-i-been-pwned&#34;&gt;Have I Been Pwned?&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://haveibeenpwned.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Have I Been Pwned?&lt;/a&gt; is a website that allows you to search over known data breaches and check if one or several of your accounts and personal information have been compromised. If so, you will see which personal information has been leaked and obtain details about the breach. The &lt;em&gt;Notify me&lt;/em&gt; service allows you to be notified if your email address appears in future breaches.&lt;/p&gt;
+&lt;p&gt;If some of your accounts have been compromised, you should change your password, as well as all the other accounts that were using the same or a similar password, so that the malicious actors will not be able to break into your other accounts.
+If you were not already caught in a breach, do not think that you are safe: this is mostly a matter of time before having one of your account compromised.&lt;/p&gt;
+&lt;h2 id=&#34;so-what-should-i-do&#34;&gt;So what should I do?&lt;/h2&gt;
+&lt;p&gt;First, you have to accept that at some point your passwords &lt;em&gt;will be stolen&lt;/em&gt;. When this happens, the best way to protect yourself will be to have used &lt;em&gt;long&lt;/em&gt;, &lt;em&gt;unpredictable&lt;/em&gt;, and &lt;em&gt;unique&lt;/em&gt; passwords for each of your account.&lt;/p&gt;
+&lt;p&gt;Obviously, it is impossible for us to remember tens of different, complex, and 30-character long passwords, and that&amp;rsquo;s where the password manager comes in.&lt;/p&gt;
+&lt;p&gt;A password manager can be seen as a password safe where you safely store all your unique and complex passwords for all your accounts. And you only have to remember one unique and complex password which is used to unlock the database of passwords.&lt;/p&gt;
+&lt;p&gt;They are very simple to use, cross platforms (you can synchronize and have access to all your passwords from all your devices), they come with convenient browser extensions to log you in automatically on websites, and they will take care of  randomly generating complex passwords for you.&lt;/p&gt;
+&lt;h2 id=&#34;which-password-manager-to-use&#34;&gt;Which password manager to use?&lt;/h2&gt;
+&lt;p&gt;I personally recommend you to use 
+&lt;a href=&#34;https://www.lastpass.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LastPass&lt;/a&gt;, because it is easy to configure, synchronize, and use accross all your devices.
+You will need to create a &lt;em&gt;strong master password&lt;/em&gt; which will be the one that will allow you to unlock your vault of passwords. Create a totally unique master password (do not use one that you were previously using&amp;hellip;) that you will be able to remember, otherwise you will loose access to all your other passwords&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Then you will have to add into your passwords vault, all your accounts and passwords. When you do so the first time, for each account:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Log in to your account on this website with your old password&lt;/li&gt;
+&lt;li&gt;Use your password manager to generate a long, complex, and unique password for this account&lt;/li&gt;
+&lt;li&gt;Copy paste this password on the website in your account settings to change your old password for a random one&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This might take you some time to do it for all your accounts the first time, but it&amp;rsquo;s definitely worth it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional tips:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Consider using multifactor authentication to add a second login step before being able to unlock your passwords vault.&lt;/li&gt;
+&lt;li&gt;Do not be always sign in by default in the browser extension of your password manager: if someone else is using your device, she might have access to your passwords&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more advanced users, I would recommend to take a look at 
+&lt;a href=&#34;https://keepass.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keepass&lt;/a&gt; or at 
+&lt;a href=&#34;https://www.passwordstore.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pass&lt;/a&gt; (which is the one I use).&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

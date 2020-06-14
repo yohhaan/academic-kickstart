@@ -30,16 +30,16 @@ interests:
 education:
   courses:
   - course: M.S. in Computer Science and Engineering
-    institution: The Pennsylvania State University
+    institution: The Pennsylvania State University, USA
     year: 2021 (expected)
   - course: M.S. and B.S. in Engineering Sciences (Diplôme d’Ingénieur)
-    institution: École Centrale de Lyon
+    institution: École Centrale de Lyon, France
     year: 2021 (expected)
   - course: Classe Préparatoire aux Grandes Écoles, equivalent to first 2 years of B.S. in Engineering Sciences
-    institution: Lycée Faidherbe
+    institution: Lycée Faidherbe, France
     year: 2017
   - course: French Baccalauréat and Spanish Bachillerato, scientific option, with high honours
-    institution: Lycée Louis Blaringhem
+    institution: Lycée Louis Blaringhem, France
     year: 2015
 
 # Social/Academic Networking

@@ -5,12 +5,262 @@
     <link>https://yohhaan.github.io/</link>
       <atom:link href="https://yohhaan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jun 2020 14:33:42 -0400</lastBuildDate>
     <image>
       <url>https://yohhaan.github.io/images/icon_hu72d8aa925451deff492658097196e0f0_214692_512x512_fill_lanczos_center_2.png</url>
       <title></title>
       <link>https://yohhaan.github.io/</link>
     </image>
+    
+    <item>
+      <title>Protect Your Privacy Online! (Facebook)</title>
+      <link>https://yohhaan.github.io/posts/protect-your-privacy-online-facebook-account/</link>
+      <pubDate>Sun, 14 Jun 2020 14:33:42 -0400</pubDate>
+      <guid>https://yohhaan.github.io/posts/protect-your-privacy-online-facebook-account/</guid>
+      <description>&lt;p&gt;If you have read my previous posts, you might have already seen some but not all of the following tips.&lt;/p&gt;
+&lt;h2 id=&#34;interesting-links&#34;&gt;Interesting links&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s start with some links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://dayssincelastfacebookscandal.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Days Since Last Facebook Scandal&lt;/a&gt; tracks the scandals in which Facebook is and has been involved&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nytimes.com/2018/04/11/technology/facebook-privacy-hearings.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What You Don’t Know About How Facebook Uses Your Data&lt;/a&gt;, an article from The New York Times with an overview on how Facebook tracks its users as well as nonusers&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.facebook.com/settings?tab=your_facebook_information&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a copy of the information that Facebook has on you&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;do-not-sign-in-on-other-websites-with-you-social-media-account&#34;&gt;Do not sign in on other websites with you social media account&lt;/h2&gt;
+&lt;p&gt;There are several steps you can take to reduce the tracking that Facebook performs on you.
+First, do not use your Facebook account to log in on other websites, if you want to reduce the amount of data  collected on you. Similarly be aware that when you play to games or use other applications on Facebook, you are sharing your data with their developers.&lt;/p&gt;
+&lt;h2 id=&#34;use-firefox-and-the-facebook-container-extension&#34;&gt;Use Firefox and the Facebook Container Extension&lt;/h2&gt;
+&lt;p&gt;Use the 
+&lt;a href=&#34;https://www.mozilla.org/firefox/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Firefox Browser&lt;/a&gt; with the 
+&lt;a href=&#34;https://addons.mozilla.org/firefox/addon/facebook-container/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook Container Extension&lt;/a&gt; to prevent Facebook from tracking you around the web. See my posts on Firefox for more details: 
+&lt;a href=&#34;https://yohhaan.github.io/posts/protect-your-privacy-online-firefox/&#34;&gt;Protect Your Privacy Online! (Firefox Browser)&lt;/a&gt;. I would strongly recommend you to delete the Facebook application from your smartphone and to only access to it through Firefox with the Facebook Container Extension.&lt;/p&gt;
+&lt;h2 id=&#34;configure-your-facebook-settings&#34;&gt;Configure your Facebook settings&lt;/h2&gt;
+&lt;p&gt;Review thoroughly your 
+&lt;a href=&#34;https://www.facebook.com/settings&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;settings&lt;/a&gt; if you have a Facebook account, opt out of everything you can, and reduce the visibility of your activity and posts to the minimum wherever possible:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;General:&lt;/em&gt; Consider using an alias and changing your username&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Security and Login:&lt;/em&gt; Log out from unactive sessions, use a strong and unique password (see 
+&lt;a href=&#34;https://yohhaan.github.io/posts/you-shall-not-pass&#34;&gt;You Shall Not Pass! (Password Management)&lt;/a&gt;), remove authorized logins devices&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Your Facebook Information:&lt;/em&gt; Request a copy of your information to realize what Facebook knows about you, go over your Activity Log to manage it, turn off Off-facebook Activity.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Privacy:&lt;/em&gt; Reduce the visibility of your activity and posts to the minimum wherever possible, limit the audience of your past posts, reduce to only you who can look up with your email address or your phone number, disable search engines to link to your profile.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Location:&lt;/em&gt; Do I really need to tell you to turn off Location History?&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Blocking:&lt;/em&gt; Consider blocking apps you have been using in the past so that they can no longer obtain your information.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Face recognition:&lt;/em&gt; Turn off face recognition.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Apps and websites / Instant Games / Business Integrations:&lt;/em&gt; I strongly recommend you to stop using Facebook with other apps and websites, revoke all the previously granted access, remove all the apps, and turn off the possiblity to interact with apps and other websites.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Other tabs:&lt;/em&gt; Reduce the scope of visibility to the minimum wherever possible&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Protect Your Privacy Online! (Google Account)</title>
+      <link>https://yohhaan.github.io/posts/protect-your-privacy-online-google-account/</link>
+      <pubDate>Sun, 14 Jun 2020 14:33:32 -0400</pubDate>
+      <guid>https://yohhaan.github.io/posts/protect-your-privacy-online-google-account/</guid>
+      <description>&lt;h2 id=&#34;interesting-links&#34;&gt;Interesting links&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s start with some links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.wired.com/story/google-tracks-you-privacy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;All the Ways Google Tracks You—And How to Stop It&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review your 
+&lt;a href=&#34;https://myactivity.google.com/myactivity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Activity&lt;/a&gt;, your 
+&lt;a href=&#34;https://www.google.com/maps/timeline&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Timeline and Location History&lt;/a&gt;, and 
+&lt;a href=&#34;https://takeout.google.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;see the content that Google has on you&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;do-not-use-your-google-account-to-sign-in-on-other-websites&#34;&gt;Do not use your Google Account to sign in on other websites&lt;/h2&gt;
+&lt;p&gt;Only use your Google Account for the Google related services and but not other websites to reduce the amount of data collected on you.&lt;/p&gt;
+&lt;h2 id=&#34;do-not-perform-google-searches-while-being-connected-to-your-google-account&#34;&gt;Do not perform Google searches while being connected to your Google account&lt;/h2&gt;
+&lt;p&gt;For the same reason as the previous one.&lt;/p&gt;
+&lt;h2 id=&#34;use-firefox-instead-of-google-chrome-and-another-search-engine-than-google&#34;&gt;Use Firefox instead of Google Chrome and another search engine than Google&lt;/h2&gt;
+&lt;p&gt;Use the 
+&lt;a href=&#34;https://www.mozilla.org/firefox/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Firefox Browser&lt;/a&gt;, consider switching to another search engine than Google, and isolate Google Services into a specific 
+&lt;a href=&#34;https://addons.mozilla.org/firefox/addon/multi-account-containers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Firefox Multi-Account Container&lt;/a&gt;. See my posts on Firefox for more details: 
+&lt;a href=&#34;https://yohhaan.github.io/posts/protect-your-privacy-online-firefox/&#34;&gt;Protect Your Privacy Online! (Firefox Browser)&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;configure-your-google-account&#34;&gt;Configure your Google Account&lt;/h2&gt;
+&lt;p&gt;Review thoroughly your 
+&lt;a href=&#34;https://myaccount.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;settings&lt;/a&gt;, opt out of everything you can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Personal info:&lt;/em&gt; consider sharing as less personal information as you can, navigate to &lt;em&gt;Go to About me&lt;/em&gt; and reduce who can see your information to &lt;strong&gt;Only you&lt;/strong&gt; wherever possible&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Data &amp;amp; personalization:&lt;/em&gt; Manage your &lt;em&gt;Activity controls&lt;/em&gt;, basically here juste delete all your activity (web activity, timeline, and location history), pause and opt out from any further recording, turn off &lt;em&gt;Ad personalization&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Take the Privacy Checkup&lt;/em&gt; to check that you did not forget to opt out from something as the Google settings are like a maze to navigate through&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Visit your &lt;em&gt;Google Dashboard&lt;/em&gt; and take the time to visit each Google service you are using to configure it, delete uploaded data you are not using anymore&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Security:&lt;/em&gt;  Log out from unactive sessions, use a strong and unique password (see 
+&lt;a href=&#34;https://yohhaan.github.io/posts/you-shall-not-pass&#34;&gt;You Shall Not Pass! (Password Management)&lt;/a&gt;), you can also from there manage &lt;em&gt;Signing in to other sites&lt;/em&gt; if you used this option before&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;People &amp;amp; sharing:&lt;/em&gt; Turn off contact information retrieval from interactions and from your devices as well as endorsements in ads&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Protect Your Privacy Online! (Signal)</title>
+      <link>https://yohhaan.github.io/posts/protect-your-privacy-online-signal/</link>
+      <pubDate>Sat, 13 Jun 2020 22:59:16 -0400</pubDate>
+      <guid>https://yohhaan.github.io/posts/protect-your-privacy-online-signal/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.signal.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Signal&lt;/a&gt; is an open source, encrypted, and cross platform messaging application, there exists an iOS and Android applications and a desktop version for Windows, macOS, and Linux.&lt;/p&gt;
+&lt;p&gt;Discussions, audios, video calls, pictures, documents&amp;hellip; shared on Signal are end to end encrypted, meaning that only you and your correspondent(s) have access on your smartphones/laptops to the decryption keys to see the content of the messages, this guarantees your privacy.&lt;/p&gt;
+&lt;p&gt;The application is free, open source, and has been peer reviewed: thus, the cryptographic protocols and algorithms used by Signal have been validated as safe and secure. The development of the application is exclusively funded by donations, Signal does not track you, nor sell your activity or data.&lt;/p&gt;
+&lt;p&gt;Signal is regularly considered as the most secure and privacy-centric messaging application ever made.&lt;/p&gt;
+&lt;h2 id=&#34;but-whatsapp-also-uses-end-to-end-encryption-no&#34;&gt;But WhatsApp also uses end to end encryption no?&lt;/h2&gt;
+&lt;p&gt;That&amp;rsquo;s true, however WhatsApp is managed by Facebook, which primary goal is to make money by selling ads and targeting ads to specific users. Moreover, even if WhatsApp is using end to end encryption, there are still able to collect metadata about your discussions: telephone numbers, contacts, statistics about your discussions, who you speak to, IP addresses&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Although Signal does not have all those fancy features, stickers, and games, its simplicity comes with a very big advantage which is far more important than anything else: the respect of your privacy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Protect Your Privacy Online! (Firefox Browser)</title>
+      <link>https://yohhaan.github.io/posts/protect-your-privacy-online-firefox/</link>
+      <pubDate>Sat, 13 Jun 2020 12:12:26 -0400</pubDate>
+      <guid>https://yohhaan.github.io/posts/protect-your-privacy-online-firefox/</guid>
+      <description>&lt;h2 id=&#34;switch-to-firefox-browser&#34;&gt;Switch to Firefox Browser&lt;/h2&gt;
+&lt;p&gt;I strongly recommend you to exclusively use the 
+&lt;a href=&#34;https://www.mozilla.org/firefox/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Firefox Browser&lt;/a&gt; if you are not using it yet.
+There are several reasons to switch to Firefox:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Better CPU and RAM management&lt;/li&gt;
+&lt;li&gt;Open source project&lt;/li&gt;
+&lt;li&gt;Privacy is one of the centerpieces of Mozilla&amp;rsquo;s products&lt;/li&gt;
+&lt;li&gt;Not owned by Google&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;firefox-privacy--security-settings&#34;&gt;Firefox Privacy &amp;amp; Security Settings&lt;/h2&gt;
+&lt;p&gt;Configure the privacy and security settings of Firefox, below are mine:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Block cookies, tracking content, cryptominers, and fingerprinters in all windows&lt;/li&gt;
+&lt;li&gt;Always send a &lt;em&gt;Do not track&lt;/em&gt; signal to websites&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://yohhaan.github.io/img/firefox_privacy.png&#34; alt=&#34;Firefox Privacy&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;firefox-extensions&#34;&gt;Firefox Extensions&lt;/h2&gt;
+&lt;p&gt;Here are some very useful add-ons to protect you online:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://yohhaan.github.io/img/firefox_addons.png&#34; alt=&#34;Firefox Extensions&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;facebook-containerhttpsaddonsmozillaorgfirefoxaddonfacebook-container&#34;&gt;
+&lt;a href=&#34;https://addons.mozilla.org/firefox/addon/facebook-container/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Facebook Container&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This extension prevents Facebook from tracking you around the web. It literally isolates Facebook in a separate container (in a blue tab) so that it makes it harder for Facebook to track the rest of your web activity on other websites with third-party cookies.&lt;/p&gt;
+&lt;h3 id=&#34;firefox-multi-account-containershttpsaddonsmozillaorgfirefoxaddonmulti-account-containers&#34;&gt;
+&lt;a href=&#34;https://addons.mozilla.org/firefox/addon/multi-account-containers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Firefox Multi-Account Containers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Similar to the previous extension, this extension allows you to create as many containers as you want to isolate your web activity and preserve your privacy: cookies are separated by container allowing you to use the web with multiple identities or accounts simultaneously.&lt;/p&gt;
+&lt;p&gt;For instance you can create containers to isolate your activity on your bank website, from your activity on streaming websites, on Google services&amp;hellip; When you create a new container, open the corresponding website(s) that you want to isolate and click on &lt;em&gt;Always open in this container&lt;/em&gt; to automatically isolating it in this specific container.&lt;/p&gt;
+&lt;h3 id=&#34;noscript-security-suitehttpsaddonsmozillaorgfirefoxaddonnoscript&#34;&gt;
+&lt;a href=&#34;https://addons.mozilla.org/firefox/addon/noscript/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NoScript Security Suite&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This extension will protect you by only allowing the execution of JavaScript, Flash, and other executable contents on trusted domains. Those executable contents are used to exploit security vulnerabilities, by blocking them by default and allowing them only on the websites you trust, your web navigation is safer.
+At the very beginning after the installation of this extension, it is a little pricey to configure manually all your trusted domains as you visit them, but but it&amp;rsquo;s definitely worth it.&lt;/p&gt;
+&lt;h3 id=&#34;ublock-originhttpsaddonsmozillaorgfirefoxaddonublock-origin&#34;&gt;
+&lt;a href=&#34;https://addons.mozilla.org/firefox/addon/ublock-origin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;uBlock Origin&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;uBlock Origin is a content blocker that will block ads, tracking domains, malware domains&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;search-engine&#34;&gt;Search Engine&lt;/h2&gt;
+&lt;p&gt;For the search engine, you should also consider switching to something else than Google, 
+&lt;a href=&#34;https://duckduckgo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DuckDuckGo&lt;/a&gt; is a good alternative.&lt;/p&gt;
+&lt;h2 id=&#34;firefox-for-mobile&#34;&gt;Firefox for Mobile&lt;/h2&gt;
+&lt;p&gt;You should also use Firefox on your 
+&lt;a href=&#34;https://www.mozilla.org/firefox/mobile/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mobile devices&lt;/a&gt; with 
+&lt;a href=&#34;https://duckduckgo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DuckDuckGo&lt;/a&gt;. Some of the add-ons presented previously (especially NoScript and uBlock Origin) are also available on the mobile version.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Protect Your Privacy Online! (General Tips)</title>
+      <link>https://yohhaan.github.io/posts/protect-your-privacy-online-tips/</link>
+      <pubDate>Sat, 13 Jun 2020 12:03:53 -0400</pubDate>
+      <guid>https://yohhaan.github.io/posts/protect-your-privacy-online-tips/</guid>
+      <description>&lt;h2 id=&#34;why-does-it-matter&#34;&gt;Why does it matter?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nytimes.com/interactive/2019/opinion/internet-privacy-project.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Privacy Project&lt;/a&gt; an interesting -and scary- series from The New York Times Opinion about Privacy&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;One Nation, Tracked&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nytimes.com/interactive/2019/04/10/opinion/internet-data-privacy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;It&amp;rsquo;s Time to Panic About Privacy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nytimes.com/interactive/2019/08/23/opinion/data-internet-privacy-tracking.html?searchResultPosition=18&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;I Visited 47 Sites. Hundreds of Trackers Followed Me.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;use-common-sense&#34;&gt;Use common sense&lt;/h2&gt;
+&lt;p&gt;This is perhaps the most important and simple advice: exercise common sense while browsing online!
+wherever something looks suspect, strange, or you are not sure about, think twice before clicking or entering all your information. Paying a bit more attention could save you big!&lt;/p&gt;
+&lt;h2 id=&#34;be-careful-with-the-information-you-provide-online&#34;&gt;Be careful with the information you provide online&lt;/h2&gt;
+&lt;p&gt;Make your social media accounts private if possible, do not share too many information. Let&amp;rsquo;s take a simple example: you are on holidays and you share your pictures online, if your friends will probably think that your pictures are wonderful, a malicious actor will obtain the information that you are not at home and could use it to break in&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;spam-and-scams&#34;&gt;Spam and scams&lt;/h2&gt;
+&lt;p&gt;You should never consider that an email is secure, nor trust a link sent into an email: pay attention to scams and spams, they can be very elaborate. If you have any doubt, do not click on the provided link, open a new tab and search for the information by visiting the website that is supposed to have sent you the email.&lt;/p&gt;
+&lt;h2 id=&#34;private-mode-do-not-make-you-anonymous&#34;&gt;Private Mode do not make you anonymous&lt;/h2&gt;
+&lt;p&gt;It just prevents your browser from locally saving cookies and other data, but the websites you are visiting have still access to your IP address&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;use-a-vpn-to-browse-anonymously&#34;&gt;Use a VPN to browse anonymously&lt;/h2&gt;
+&lt;p&gt;A VPN allows you to establish a secure and encrypted tunnel between your device and a server of your VPN provider. Thus, when the VPN connection is established, your IP is hidden and the websites you visit see another IP address provided by your VPN provider. This prevents websites from tracking your actual IP address and location, and from establishing your browsing habits.&lt;/p&gt;
+&lt;p&gt;A VPN is the best way to protect your privacy online and browse anonymously.
+Choosing a VPN provider is not an easy task, as there are several things to take into account acording to your needs, but perhaps the most important point to remember is that you have to pick a VPN with a no-log policy, meaning that they do not track, collect, or share your activity. Obviously to obtain such privacy guarantees you will have to pay for your VPN, do not use a free VPN as it will probaby put your security at risk.&lt;/p&gt;
+&lt;p&gt;One of the leaders in the industry is 
+&lt;a href=&#34;https://nordvpn.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NordPVN&lt;/a&gt;, they have undergone an audit from independent auditors to confirm their no-log policy, they are based out of the EU and the US, and they allow you to connect 6 devices at the same time. 
+&lt;a href=&#34;https://surfshark.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Surfshark&lt;/a&gt; is another promising alternative, however they have not undergone a complete independent audit of their services yet.&lt;/p&gt;
+&lt;h2 id=&#34;avoid-using-public-wifi-hotspots&#34;&gt;Avoid using public Wifi hotspots&lt;/h2&gt;
+&lt;p&gt;Do not consider public Wifi hotspots as safe.
+In the same vein, do not recharge your devices at public USB stations.&lt;/p&gt;
+&lt;h2 id=&#34;use-a-password-manager&#34;&gt;Use a password manager&lt;/h2&gt;
+&lt;p&gt;See my related post: 
+&lt;a href=&#34;https://yohhaan.github.io/posts/you-shall-not-pass&#34;&gt;You Shall Not Pass! (Password Management)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;take-the-time-to-configure-your-accounts&#34;&gt;Take the time to configure your accounts&lt;/h2&gt;
+&lt;p&gt;Configure your privacy settings on your accounts: Facebook, Google&amp;hellip; and opt out from any tracking and recording of your activity.&lt;/p&gt;
+&lt;h2 id=&#34;disable-gps-localisation-and-wi-fi-until-you-need-them&#34;&gt;Disable GPS localisation and Wi-Fi until you need them&lt;/h2&gt;
+&lt;p&gt;Do not facilitate the job of the trackers&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;do-not-use-your-social-media-accounts-to-log-in-on-other-websites&#34;&gt;Do not use your social media accounts to log in on other websites&lt;/h2&gt;
+&lt;p&gt;Again here, the objective is to reduce the amount of data that is collected on you by those social medias.&lt;/p&gt;
+&lt;h2 id=&#34;do-not-perform-google-searches-while-being-connected-to-your-google-account&#34;&gt;Do not perform Google searches while being connected to your Google account&lt;/h2&gt;
+&lt;p&gt;Same reason as the previous one: reduce the information collected by Google on you.&lt;/p&gt;
+&lt;h2 id=&#34;log-out-from-websites-after-your-visit&#34;&gt;Log out from websites after your visit&lt;/h2&gt;
+&lt;p&gt;If you do not need anymore to be logged in, you should log out before closing the tab.&lt;/p&gt;
+&lt;h2 id=&#34;use-firefox-with-some-useful-extensions-and-switch-to-another-search-engine-than-google-search&#34;&gt;Use Firefox with some useful extensions and switch to another search engine than Google Search&lt;/h2&gt;
+&lt;p&gt;See this post 
+&lt;a href=&#34;https://yohhaan.github.io/posts/protect-your-privacy-online-firefox/&#34;&gt;Protect Your Privacy Online! (Firefox Browser)&lt;/a&gt; for details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>You Shall Not Pass! (Password Management)</title>
+      <link>https://yohhaan.github.io/posts/you-shall-not-pass/</link>
+      <pubDate>Fri, 12 Jun 2020 18:17:35 -0400</pubDate>
+      <guid>https://yohhaan.github.io/posts/you-shall-not-pass/</guid>
+      <description>&lt;p&gt;In this post, I hope to convince you once for all to stop reusing this &lt;strong&gt;same exact&lt;/strong&gt; password you use for all your accounts and start using a password manager.&lt;/p&gt;
+&lt;h2 id=&#34;have-i-been-pwned&#34;&gt;Have I Been Pwned?&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://haveibeenpwned.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Have I Been Pwned?&lt;/a&gt; is a website that allows you to search over known data breaches and check if one or several of your accounts and personal information have been compromised. If so, you will see which personal information has been leaked and obtain details about the breach. The &lt;em&gt;Notify me&lt;/em&gt; service allows you to be notified if your email address appears in future breaches.&lt;/p&gt;
+&lt;p&gt;If some of your accounts have been compromised, you should change your password, as well as all the other accounts that were using the same or a similar password, so that the malicious actors will not be able to break into your other accounts.
+If you were not already caught in a breach, do not think that you are safe: this is mostly a matter of time before having one of your account compromised.&lt;/p&gt;
+&lt;h2 id=&#34;so-what-should-i-do&#34;&gt;So what should I do?&lt;/h2&gt;
+&lt;p&gt;First, you have to accept that at some point your passwords &lt;em&gt;will be stolen&lt;/em&gt;. When this happens, the best way to protect yourself will be to have used &lt;em&gt;long&lt;/em&gt;, &lt;em&gt;unpredictable&lt;/em&gt;, and &lt;em&gt;unique&lt;/em&gt; passwords for each of your account.&lt;/p&gt;
+&lt;p&gt;Obviously, it is impossible for us to remember tens of different, complex, and 30-character long passwords, and that&amp;rsquo;s where the password manager comes in.&lt;/p&gt;
+&lt;p&gt;A password manager can be seen as a password safe where you safely store all your unique and complex passwords for all your accounts. And you only have to remember one unique and complex password which is used to unlock the database of passwords.&lt;/p&gt;
+&lt;p&gt;They are very simple to use, cross platforms (you can synchronize and have access to all your passwords from all your devices), they come with convenient browser extensions to log you in automatically on websites, and they will take care of  randomly generating complex passwords for you.&lt;/p&gt;
+&lt;h2 id=&#34;which-password-manager-to-use&#34;&gt;Which password manager to use?&lt;/h2&gt;
+&lt;p&gt;I recommend you to use 
+&lt;a href=&#34;https://www.lastpass.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LastPass&lt;/a&gt;, because it is easy to configure, synchronize, and use accross all your devices. There are other options like 
+&lt;a href=&#34;https://1password.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1Password&lt;/a&gt; and for more advanced users I would recommend to take a look at 
+&lt;a href=&#34;https://keepass.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keepass&lt;/a&gt; or at 
+&lt;a href=&#34;https://www.passwordstore.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pass&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You will need to create a &lt;em&gt;strong master password&lt;/em&gt; which will be the one that will allow you to unlock your vault of passwords. Create a unique and complex master password (do not use one that you were previously using&amp;hellip;), and remember it, otherwise you will loose access to all your other passwords&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Then you will have to add into your passwords vault, all your accounts and passwords. When you do so the first time, for each account:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Log in to your account on this website with your old password&lt;/li&gt;
+&lt;li&gt;Use your password manager to generate a long, complex, and unique password for this account&lt;/li&gt;
+&lt;li&gt;Copy paste this password on the website in your account settings to change your old password for a random one&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This might take you some time to do it for all your accounts the first time, but it&amp;rsquo;s definitely worth it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional tips:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Consider using multifactor authentication to add a second login step before being able to unlock your passwords vault.&lt;/li&gt;
+&lt;li&gt;Do not be always sign in by default in the browser extension of your password manager: if someone else is using your device, she might have access to your passwords&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more advanced users, I would recommend to take a look at 
+&lt;a href=&#34;https://keepass.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Keepass&lt;/a&gt; or at 
+&lt;a href=&#34;https://www.passwordstore.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pass&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ReViVD: Exploration and Filtering of Trajectories in an Immersive Environment using 3D Shapes</title>
+      <link>https://yohhaan.github.io/publication/revivd/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yohhaan.github.io/publication/revivd/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
