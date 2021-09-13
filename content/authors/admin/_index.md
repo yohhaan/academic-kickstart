@@ -22,25 +22,25 @@ bio: I am a graduate student at Penn State. My research focuses on the security 
 
 interests:
 - Computer Security
-- Data Privacy
-- Internet of Things
-- Machine Learning
+- Privacy
 
 
 education:
   courses:
+  - course: Ph.D. in Computer Science and Engineering
+    institution: The Pennsylvania State University, USA
   - course: M.S. in Computer Science and Engineering
     institution: The Pennsylvania State University, USA
-    year: 2021 (expected)
+    year: 2021
   - course: M.S. and B.S. in Engineering Sciences (Diplôme d’Ingénieur)
     institution: École Centrale de Lyon, France
-    year: 2021 (expected)
+    year: 2021
   - course: Classe Préparatoire aux Grandes Écoles, equivalent to first 2 years of B.S. in Engineering Sciences
     institution: Lycée Faidherbe, France
     year: 2017
-  - course: French Baccalauréat and Spanish Bachillerato, scientific option, with high honours
-    institution: Lycée Louis Blaringhem, France
-    year: 2015
+  # - course: French Baccalauréat and Spanish Bachillerato, scientific option, with high honours
+  #   institution: Lycée Louis Blaringhem, France
+  #   year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -78,6 +78,6 @@ user_groups:
 #- Visitors
 ---
 
-*Welcome!* I am a Master's Student in the [Department of Computer Science and Engineering](https://www.eecs.psu.edu/) at the [Pennsylvania State University](https://www.psu.edu/). I am a member of the [Systems and Internet Infrastructure Security Laboratory](https://cybersecurity.psu.edu/), and advised by [Prof. Patrick McDaniel](http://patrickmcdaniel.org/).
+*Welcome!* I am a Ph.D. Student in the [Department of Computer Science and Engineering](https://www.eecs.psu.edu/) at the [Pennsylvania State University](https://www.psu.edu/). I am a member of the [Systems and Internet Infrastructure Security Laboratory](https://cybersecurity.psu.edu/), and advised by [Prof. Patrick McDaniel](http://patrickmcdaniel.org/).
 
-My research focuses on Internet of Things and Machine Learning systems. I am mainly interested in building more secure and privacy preserving systems.
+My research focuses on the security and privacy of computer systems. I am mainly interested in building more secure and privacy preserving systems.

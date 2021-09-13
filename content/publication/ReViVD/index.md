@@ -12,4 +12,3 @@ doi: ""
 url_pdf: "https://conferences.computer.org/vr-tvcg/2020/pdfs/VR2020-2f8MzUJjtCXG6Ue9RYFSN2/560800a729/560800a729.pdf"
 url_code: "https://github.com/AmigoCap/ReViVD"
 ---
-
