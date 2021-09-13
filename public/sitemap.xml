@@ -1,168 +1,120 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://yohhaan.github.io/</loc>
-    <lastmod>2020-06-14T14:33:42-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yohhaan.github.io/publication-type/1/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://yohhaan.github.io/authors/</loc>
-    <lastmod>2020-06-14T14:33:42-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yohhaan.github.io/author/b.-hoak/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yohhaan.github.io/author/e.-pauley/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yohhaan.github.io/author/m.-wiesman/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yohhaan.github.io/publication/domain_constraints/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yohhaan.github.io/author/p.-mcdaniel/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yohhaan.github.io/publication_types/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yohhaan.github.io/publication/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yohhaan.github.io/author/r.-sheatsley/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://yohhaan.github.io/author/y.-beugin/</loc>
+    <lastmod>2021-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/facebook/</loc>
     <lastmod>2020-06-14T14:33:42-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/posts/</loc>
     <lastmod>2020-06-14T14:33:42-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/privacy/</loc>
     <lastmod>2020-06-14T14:33:42-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/posts/protect-your-privacy-online-facebook-account/</loc>
     <lastmod>2020-06-14T14:33:42-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tags/</loc>
     <lastmod>2020-06-14T14:33:42-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/tracking/</loc>
     <lastmod>2020-06-14T14:33:42-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/author/yohan-beugin/</loc>
     <lastmod>2020-06-14T14:33:42-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/google/</loc>
     <lastmod>2020-06-14T14:33:32-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/posts/protect-your-privacy-online-google-account/</loc>
     <lastmod>2020-06-14T14:33:32-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/encryption/</loc>
     <lastmod>2020-06-13T22:59:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/messaging-service/</loc>
     <lastmod>2020-06-13T22:59:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/posts/protect-your-privacy-online-signal/</loc>
     <lastmod>2020-06-13T22:59:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/signal/</loc>
     <lastmod>2020-06-13T22:59:16-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/browser/</loc>
     <lastmod>2020-06-13T12:12:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/firefox/</loc>
     <lastmod>2020-06-13T12:12:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/posts/protect-your-privacy-online-firefox/</loc>
     <lastmod>2020-06-13T12:12:26-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/posts/protect-your-privacy-online-tips/</loc>
     <lastmod>2020-06-13T12:03:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/tips/</loc>
     <lastmod>2020-06-13T12:03:53-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/password-manager/</loc>
     <lastmod>2020-06-12T18:17:35-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/security/</loc>
     <lastmod>2020-06-12T18:17:35-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/posts/you-shall-not-pass/</loc>
     <lastmod>2020-06-12T18:17:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yohhaan.github.io/publication-type/1/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/author/f.-homps/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yohhaan.github.io/publication_types/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yohhaan.github.io/publication/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/author/r.-vuillemot/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/publication/revivd/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/tag/visualization-toolkitsvirtual-realitytrajectory-based-datasets3d-geometric-shapeshuman-computer-interaction-hciinteraction-paradigmsvisualization-systems-and-tools/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yohhaan.github.io/author/y.-beugin/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://yohhaan.github.io/talk/</loc>
   </url>
-  
 </urlset>
